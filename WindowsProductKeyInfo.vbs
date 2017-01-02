@@ -1,6 +1,6 @@
 '* Script: Windows Key Information
 '* http://www.proy.info            *
-'* Created On 02/01/2017           *
+'* Modified On 02/01/2017          *
 '***********************************
 
 Dim strComputer, objWMIService, objItem, Caption, colItems, ProductData, OSVersion, InstallDate, RegisteredUser, ProductID, systemOsType
